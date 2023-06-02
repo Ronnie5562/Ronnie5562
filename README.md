@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## A Snake is eating up my contribution graph 😱😱😨
-![snake gif](https://github.com/Ronnie5562/Ronnie5562/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Ronnie5562/Ronnie5562/blob/output/github-contribution-grid-snake.svg)
