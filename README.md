@@ -13,13 +13,7 @@ Hello! My name is Ronald Abimbola. I am a skilled 17-year-old software engineer 
 *   🧠  I'm learning Artificial Intelligence and Django
 *   🤝  I'm open to collaborating on Projects with Reactjs, Django and AI
 *   ⚡  I'm Secretly Spiderman... but don't tell anyone
- 
-<a href="https://www.github.com/Ronnie5562" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/Ronnie5562?logo=github&style=for-the-badge&color=0891b2&labelColor=171717" /></a>
-                  
-   <a href="https://www.twitter.com/AbimbolaRonald" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/AbimbolaRonald?logo=twitter&style=for-the-badge&color=0891b2&labelColor=171717"
-                /></a>
+
 ### Skills 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
@@ -51,10 +45,7 @@ Hello! My name is Ronald Abimbola. I am a skilled 17-year-old software engineer 
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Ronnie5562"><img src="https://github-readme-stats.vercel.app/api?username=Ronnie5562&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&show_icons=true" alt="Ronnie5562's GitHub stats" /></a>
-
 <a href="http://www.github.com/Ronnie5562"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ronnie5562&stroke=ffffff&background=171717&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/Ronnie5562" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronnie5562&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
