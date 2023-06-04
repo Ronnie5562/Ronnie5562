@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software engineer and Artificial intelligence enthusiast
 --------------------------------------------------------
 
-Hello! My name is Ronald Abimbola. I am a skilled 17-year-old software engineer with a keen interest in Artificial Intelligence. I am passionate about contributing to the advancement of humanity as a multi-planetary species and strive to leverage technology to drive innovation and development in Africa.
+Hello! My name is Ronald Abimbola. I am a skilled software engineer with a keen interest in Artificial Intelligence. I am passionate about contributing to the advancement of humanity as a multi-planetary species and strive to leverage technology to drive innovation and development in Africa.
 
 *   🌍  I'm based in Kigali Rwanda
 *   🖥️  See my portfolio at [Ronald Abimbola](http://abimbolaronald.com)
@@ -12,7 +12,7 @@ Hello! My name is Ronald Abimbola. I am a skilled 17-year-old software engineer 
 *   🚀  I'm currently working on [QR code Generator](http://abimbolaronald.tech)
 *   🧠  I'm learning Artificial Intelligence and Django
 *   🤝  I'm open to collaborating on Projects with Reactjs, Django and AI
-*   ⚡  I'm Secretly Spiderman... but don't tell anyone
+*   ⚡  I'm Secretly Spiderman... but don't tell anyone 🤫🤫 
 
 ### Skills 
 <p align="left">
