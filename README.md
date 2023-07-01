@@ -11,7 +11,7 @@ Hello! My name is Ronald Abimbola. I am a skilled software engineer with a keen 
 *   ✉️  You can contact me at [r.abimbola@alustudent.com](mailto:r.abimbola@alustudent.com)
 *   🚀  I'm currently working on [QR code Generator](http://abimbolaronald.tech)
 *   🧠  I'm learning Artificial Intelligence and Django
-*   🤝  I'm open to collaborating on Projects with Reactjs, Django and AI
+*   🤝  I'm open to collaborating on Projects with Reactjs, Reactnative Django and AI
 *   ⚡  I'm Secretly Spiderman... but don't tell anyone 🤫🤫 
 
 ### Skills 
