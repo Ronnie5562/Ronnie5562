@@ -44,12 +44,12 @@ Hello! My name is Ronald Abimbola. I am a skilled software engineer with a keen 
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Ronnie5562"><img src="https://github-readme-stats.vercel.app/api?username=Ronnie5562&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&show_icons=true" alt="Ronnie5562's GitHub stats" /></a>
-<a href="http://www.github.com/Ronnie5562"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ronnie5562&stroke=ffffff&background=171717&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+![Ronald's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ronnie5562&show_icons=true&theme=tokyonight)
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/Ronnie5562/ML002" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ronnie5562&repo=ML002&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ronnie5562&repo=ML002&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=171717)](https://github.com/anuraghazra/github-readme-stats)
+
 
  [![Ronald's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ronnie5562&bg_color=0d1117&color=708090&line=139ae1&point=ffffff&area=true&hide_border=true)](https://github.com/Ronnie5562/github-readme-activity-graph)
  
