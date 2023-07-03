@@ -44,14 +44,14 @@ Hello! My name is Ronald Abimbola. I am a skilled software engineer with a keen 
 
 <b>My GitHub Stats</b>
 
-![Ronald's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ronnie5562&show_icons=true&theme=dark)
+![Ronald's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ronnie5562&show_icons=true&theme=github_dark)
 
 <b>Top Repositories</b>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ronnie5562&repo=ML002&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=171717)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ronnie5562&repo=ML002&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)
 
  [![Ronald's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ronnie5562&bg_color=0d1117&color=708090&line=139ae1&point=ffffff&area=true&hide_border=true)](https://github.com/Ronnie5562/github-readme-activity-graph)
  
