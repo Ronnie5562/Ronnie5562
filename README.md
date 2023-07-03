@@ -46,6 +46,8 @@ Hello! My name is Ronald Abimbola. I am a skilled software engineer with a keen 
 
 ![Ronald's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ronnie5562&show_icons=true&theme=github_dark)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ronnie5562&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 <b>Top Repositories</b>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ronnie5562&repo=ML002&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
