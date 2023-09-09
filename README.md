@@ -1,6 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ronald Abimbola
 =======================================================================================================================================
 
+<!DOCTYPE html>
+<html>
+<body>
+    <div style="display: flex; justify-content: center;">
+        <img align="center" src="./assets/Welcome.gif" />
+    </div>
+    <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />    
+</body>
+
 Software engineer and Artificial intelligence enthusiast
 --------------------------------------------------------
 
@@ -12,7 +21,9 @@ Hello! My name is Ronald Abimbola. I am a skilled software engineer with a keen 
 *   🚀  I'm currently working on integrating apache ofbiz into web apps
 *   🧠  I'm learning Artificial Intelligence, Java and Django
 *   🤝  I'm open to collaborating on Projects with Reactjs, Reactnative Django, Java and AI
-*   ⚡  I'm Secretly Spiderman... but don't tell anyone 🤫🤫 
+*   ⚡  I'm Secretly Spiderman... but don't tell anyone 🤫🤫
+
+<img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
 
 ### Skills 
 <p align="left">
