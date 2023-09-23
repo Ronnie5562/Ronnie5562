@@ -1,17 +1,9 @@
 **<big>Hi</big> ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) <big>My name is Ronald Abimbola</big>**
 
-Software engineer and Artificial intelligence enthusiast
+**Software Engineer and Artificial Intelligence Enthusiast**
 --------------------------------------------------------
 
-<!DOCTYPE html>
-<html>
-<body>
-    <div style="display: flex; justify-content: center;">
-        <img align="center" src="./assets/Welcome.gif" />
-    </div>
-    <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />    
-</body>
-
+<img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
 
 Hello! My name is Ronald Abimbola. I am a skilled software engineer with a keen interest in Artificial Intelligence. I am passionate about contributing to the advancement of humanity as a multi-planetary species and strive to leverage technology to drive innovation and development in Africa.
 
@@ -80,4 +72,4 @@ Hello! My name is Ronald Abimbola. I am a skilled software engineer with a keen 
  
 
 ## A Snake is eating up my contribution graph 😱😱😨
-![snake gif](https://github.com/Ronnie5562/Ronnie5562/blob/output/github-contribution-grid-snake.svg)
+![](https://github.com/Ronnie5562/Ronnie5562/blob/output/github-contribution-grid-snake.svg)
