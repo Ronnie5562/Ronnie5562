@@ -1,4 +1,8 @@
 **<big>Hi</big> ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) <big>My name is Ronald Abimbola</big>**
+
+Software engineer and Artificial intelligence enthusiast
+--------------------------------------------------------
+
 <!DOCTYPE html>
 <html>
 <body>
@@ -8,8 +12,6 @@
     <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />    
 </body>
 
-Software engineer and Artificial intelligence enthusiast
---------------------------------------------------------
 
 Hello! My name is Ronald Abimbola. I am a skilled software engineer with a keen interest in Artificial Intelligence. I am passionate about contributing to the advancement of humanity as a multi-planetary species and strive to leverage technology to drive innovation and development in Africa.
 
