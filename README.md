@@ -71,7 +71,7 @@ Hello! My name is Ronald Abimbola. I am a skilled software engineer with a keen 
  [![wakatime](https://wakatime.com/badge/user/79a153c8-56b1-4f51-a67e-2bb3e7c2319e.svg)](https://wakatime.com/@79a153c8-56b1-4f51-a67e-2bb3e7c2319e)
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31vdw2qotvipod6jut6nkhrvuuty&cover_image=true&theme=default&show_offline=true&background_color=05407f&interchange=false&bar_color=2437c6&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31vdw2qotvipod6jut6nkhrvuuty&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=false&bar_color=2437c6&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ## A Snake is eating up my contribution graph 😱😱😨
 ![](https://github.com/Ronnie5562/Ronnie5562/blob/output/github-contribution-grid-snake.svg)
