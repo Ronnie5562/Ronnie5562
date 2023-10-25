@@ -10,7 +10,7 @@ Hello! My name is Ronald Abimbola. I am a skilled software engineer with a keen 
 *   🌍  I'm based in Kigali Rwanda
 *   🖥️  See my portfolio at [Ronald Abimbola](http://abimbolaronald.com)
 *   ✉️  You can contact me at [r.abimbola@alustudent.com](mailto:r.abimbola@alustudent.com)
-*   🚀  I'm currently working on integrating apache ofbiz into web apps
+*   🚀  I'm currently working on integrating cyclos into exo-platform portlets
 *   🧠  I'm currently learning ML, Java EE and Golang
 *   🤝  I'm open to collaborating on Projects with Reactjs, Reactnative Django, Java and AI
 *   ⚡  I'm Secretly Spiderman... but don't tell anyone 🤫🤫
