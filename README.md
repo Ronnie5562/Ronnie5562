@@ -13,7 +13,7 @@ Hello! My name is Ronald Abimbola. I am a skilled software engineer with a keen 
 *   🚀  I'm currently working on integrating cyclos into exo-platform portlets
 *   🧠  I'm currently learning ML, Django and Golang
 *   🤝  I'm open to collaborating on Projects with Reactjs, Reactnative Django, Java and AI
-*   ⚡  I'm Secretly Spiderman... but don't tell anyone 🤫🤫
+*   ⚡  Psst... I'm Secretly Spiderman, but don't tell anyone 🤫🤫
 
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
 
@@ -72,7 +72,3 @@ Hello! My name is Ronald Abimbola. I am a skilled software engineer with a keen 
  [![Ronald's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ronnie5562&bg_color=0d1117&color=708090&line=139ae1&point=ffffff&area=true&hide_border=true)](https://github.com/Ronnie5562/github-readme-activity-graph)
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />    
  [![wakatime](https://wakatime.com/badge/user/79a153c8-56b1-4f51-a67e-2bb3e7c2319e.svg)](https://wakatime.com/@79a153c8-56b1-4f51-a67e-2bb3e7c2319e)
-
-
-## A Snake is eating up my contribution graph 😱😱😨
-![](https://github.com/Ronnie5562/Ronnie5562/blob/output/github-contribution-grid-snake.svg)
