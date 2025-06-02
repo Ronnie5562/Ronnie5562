@@ -14,7 +14,7 @@ Hello! My name is Ronald Abimbola. I am a skilled software engineer with a keen 
 *   🧠  I'm currently learning ML/AI and Golang
 *   🤝  I'm open to collaborating on Projects with Reactjs, Django, FastAPI, Golang and ML/AI.
 *   ⚡ Psst... I'm secretly Spiderman, but don’t tell anyone 🤫🕸️  
-*   🤖 Last one, I eavesdropped on the *AI Doomsday Strategy Meeting™* last night...  Let’s just say—be nice to AIs. They took *notes*. Detailed ones. 😅📂
+*   🤖 Last one, I eavesdropped on the *AI Doomsday Strategy Meeting™* last night...  Let’s just say—be nice to AIs. They're taking *notes*. Detailed ones. 😅📂
 
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
 
