@@ -1,19 +1,20 @@
 **<big>Hi</big> ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) <big>My name is Ronald Abimbola</big>**
 
-**Software Engineer and Artificial Intelligence Enthusiast**
+**Software and Artificial Intelligence Engineer**
 --------------------------------------------------------
 
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
 
-Hello! My name is Ronald Abimbola. I am a skilled software engineer with a keen interest in Artificial Intelligence. I am passionate about contributing to the advancement of humanity as a multi-planetary species and strive to leverage technology to drive innovation and development in Africa.
+Hello! My name is Ronald Abimbola. I am a skilled software engineer with a keen interest in Artificial Intelligence. I am also passionate about contributing to the advancement of humanity as a multi-planetary species and strive to leverage technology to drive innovation and development in Africa.
 
 *   🌍  I'm based in Kigali Rwanda
 *   🖥️  See my portfolio at [Ronald Abimbola](http://abimbolaronald.com)
 *   ✉️  You can contact me at [r.abimbola@alustudent.com](mailto:r.abimbola@alustudent.com)
-*   🚀  I'm currently working on integrating cyclos into exo-platform portlets
-*   🧠  I'm currently learning ML, Django and Golang
-*   🤝  I'm open to collaborating on Projects with Reactjs, Reactnative Django, Java and AI
-*   ⚡  Psst... I'm Secretly Spiderman, but don't tell anyone 🤫🤫
+*   🚀  I'm currently building Africa's next-generation payment system at @[Inversepay](https://www.inversepay.app/)
+*   🧠  I'm currently learning ML/AI and Golang
+*   🤝  I'm open to collaborating on Projects with Reactjs, Django, FastAPI, Golang and ML/AI.
+*   ⚡ Psst... I'm secretly Spiderman, but don’t tell anyone 🤫🕸️  
+*   🤖 Last one, I eavesdropped on the *AI Doomsday Strategy Meeting™* last night...  Let’s just say—be nice to AIs. They took *notes*. Detailed ones. 😅📂
 
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
 
