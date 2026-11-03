@@ -9,10 +9,9 @@ Hello! My name is Ronald Abimbola. I am a skilled software engineer with a keen 
 
 *   🌍  I'm based in Kigali Rwanda
 *   🖥️  See my portfolio at [Ronald Abimbola](http://abimbolaronald.com)
-*   ✉️  You can contact me at [r.abimbola@alustudent.com](mailto:r.abimbola@alustudent.com)
-*   🚀  I'm currently building Africa's next-generation payment system at @[Inversepay](https://www.inversepay.app/)
-*   🧠  I'm currently learning ML/AI and Golang
-*   🤝  I'm open to collaborating on Projects with Reactjs, Django, FastAPI, Golang and ML/AI.
+*   ✉️  You can contact me at [abimbolaronald@gmail.com](mailto:abimbolaronald@gmail.com)
+*   🚀  I'm currently building next-generation conversational agentic systems @[Aethex AI](https://aethexai.com/)
+*   🤝  I'm open to collaborating on meaningful projects around Machine Learning and Artificial Intelligence.
 *   ⚡ Psst... I'm secretly Spiderman, but don’t tell anyone 🤫🕸️  
 *   🤖 Last one, I eavesdropped on the *AI Doomsday Strategy Meeting™* last night...  Let’s just say—be nice to AIs. They're taking *notes*. Detailed ones. 😅📂
 
